@@ -1,0 +1,10 @@
+p, td { font-size:11px }
+table td{padding: 3px}
+td{border: none;}
+@page {
+	size: 8.5in 500in; /* <length>{1,2} | auto | portrait | landscape */
+	      /* 'em' 'ex' and % are not allowed; length values are width height */
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
